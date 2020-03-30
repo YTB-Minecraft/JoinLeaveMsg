@@ -1,0 +1,4 @@
+name: JoinLeaveMessage
+author: YTB
+version: 0.2
+main: org.ytb.survival.joinmsg.Main
